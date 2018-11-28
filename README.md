@@ -1,6 +1,6 @@
 # Paste to Pastebin
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)　
 This script may provide you to easily way to paste your text/log etc. to [Pastebin.com](https://pastebin.com).
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 ### Important
 Before using this script, you've got to change dev_key to your unique developer API key.
