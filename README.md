@@ -1,5 +1,5 @@
 # Paste to Pastebin
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)　
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)　<br>
 This script may provide you to easily way to paste your text/log etc. to [Pastebin.com](https://pastebin.com).
 
 ### Important
